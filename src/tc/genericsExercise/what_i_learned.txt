@@ -1,0 +1,5 @@
+I learned about Generics, 
+which are able to give us an idea of a class but not specify a class.
+The placeholder class usually has to do with classes that include multiple, 
+but not very specific objects.
+I also learned about using Type casting to specify Object towards a placeholder class.
